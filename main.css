@@ -1,0 +1,70 @@
+
+body {
+  background-color: #FFBAC7;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.container-fluid {
+  padding: 10px;
+}
+.nav {
+  padding: 15%;
+
+}
+.nav-item {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.list-container a:link, a:visited {
+  color: #14FFF7;
+  text-decoration: none;
+  font-size: 3em;
+}
+
+.jumbotron {
+  background-color: #0FBAB4;
+}
+
+.jumbotron h1 {
+  font-family: sans-serif;
+  color: #FFBAC7;
+}
+
+.row {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 20%;
+  margin: 10px;
+  background-color: #bcf0f1;
+}
+
+.card-body h1 {
+  background-color: #FFCCD6;
+}
+
+.card-body p {
+}
+
+img {
+  width: 20vw;
+}
+
+h1 {
+  background-color: ;
+}
+
+a:link, a:visited .btn .btn-primary {
+  font-size: 1em;
+}
+
+footer {
+  background-color: #0FBAB4;
+  padding: 10px;
+}
