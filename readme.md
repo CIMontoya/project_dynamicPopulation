@@ -1,4 +1,4 @@
-Project - Informational Site
+**Project - Informational Site**
 
 You've learned a lot about HTML, CSS & Javascript throughout the past few weeks. Now is your time to creatively put it to use. You will be creating a site that presents an index of something you like! Flowers, cats, restaurants, whatever!
 
