@@ -33,15 +33,15 @@ body {
   color: #FFBAC7;
 }
 
-.row {
+ .row {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
 }
 
 .card {
-  width: 20%;
-  margin: 10px;
+  /* width: 20%;
+  margin: 10px; */
   background-color: #bcf0f1;
 }
 
