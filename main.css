@@ -6,8 +6,7 @@ main{
   /* padding: 20px; */
 }
 .nav {
-  padding: 15%;
-
+  /* padding: 15%; */
 }
 .nav-item {
     text-align: center;
@@ -21,6 +20,10 @@ main{
   font-size: 3em;
 }
 
+.list-container {
+  display: flex;
+  justify-content: flex-end;
+}
 .jumbotron {
   background-color: #0FBAB4;
 }
@@ -28,8 +31,15 @@ main{
 .jumbotron h1 {
   font-family: sans-serif;
   color: #FFBAC7;
+  font-size: 100px;
 }
 
+.jumbotron img {
+  width: 3%;
+  height: auto;
+  position: relative;
+  bottom: -20px;
+}
 /* .row {
   display: flex;
   justify-content: center;
@@ -51,10 +61,6 @@ main{
 img {
   width: 100%;
   height: auto;
-}
-
-h1 {
-  background-color: ;
 }
 
 a:link, a:visited .btn .btn-primary {
